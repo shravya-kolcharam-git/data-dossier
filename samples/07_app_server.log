@@ -1,0 +1,341 @@
+2026-03-01 12:00:00 INFO GET /api/orders 200 96ms
+2026-03-01 12:00:01 INFO GET /api/orders 200 264ms
+2026-03-01 12:00:02 WARN POST /login 401 user=u7
+2026-03-01 12:00:03 INFO GET /api/orders 200 34ms
+2026-03-01 12:00:04 WARN POST /login 401 user=u1
+2026-03-01 12:00:05 ERROR Exception in checkout: NullReferenceException at cart.py:130
+  Traceback (most recent call last):
+2026-03-01 12:00:06 INFO GET /api/orders 200 224ms
+2026-03-01 12:00:07 INFO GET /api/orders 200 153ms
+2026-03-01 12:00:08 WARN POST /login 401 user=u2
+2026-03-01 12:00:09 INFO GET /api/orders 200 295ms
+2026-03-01 12:00:10 ERROR GET /api/orders 500 timeout after 6576ms
+2026-03-01 12:00:11 ERROR Exception in checkout: NullReferenceException at cart.py:158
+  Traceback (most recent call last):
+2026-03-01 12:00:12 INFO GET /api/orders 200 296ms
+2026-03-01 12:00:13 INFO GET /api/orders 200 131ms
+2026-03-01 12:00:14 ERROR GET /api/orders 500 timeout after 2616ms
+2026-03-01 12:00:15 INFO GET /api/orders 200 280ms
+2026-03-01 12:00:16 INFO GET /api/orders 200 84ms
+2026-03-01 12:00:17 INFO GET /api/orders 200 126ms
+2026-03-01 12:00:18 ERROR Exception in checkout: NullReferenceException at cart.py:66
+  Traceback (most recent call last):
+2026-03-01 12:00:19 INFO GET /api/orders 200 194ms
+2026-03-01 12:00:20 INFO GET /api/orders 200 160ms
+2026-03-01 12:00:21 INFO GET /api/orders 200 27ms
+2026-03-01 12:00:22 INFO GET /api/orders 200 173ms
+2026-03-01 12:00:23 ERROR Exception in checkout: NullReferenceException at cart.py:153
+  Traceback (most recent call last):
+2026-03-01 12:00:24 INFO GET /api/orders 200 173ms
+2026-03-01 12:00:25 ERROR GET /api/orders 500 timeout after 6701ms
+2026-03-01 12:00:26 WARN POST /login 401 user=u3
+2026-03-01 12:00:27 INFO GET /api/orders 200 257ms
+2026-03-01 12:00:28 ERROR GET /api/orders 500 timeout after 5287ms
+2026-03-01 12:00:29 INFO GET /api/orders 200 258ms
+2026-03-01 12:00:30 ERROR Exception in checkout: NullReferenceException at cart.py:92
+  Traceback (most recent call last):
+2026-03-01 12:00:31 INFO GET /api/orders 200 279ms
+2026-03-01 12:00:32 ERROR GET /api/orders 500 timeout after 8992ms
+2026-03-01 12:00:33 WARN POST /login 401 user=u8
+2026-03-01 12:00:34 ERROR GET /api/orders 500 timeout after 3892ms
+2026-03-01 12:00:35 INFO GET /api/orders 200 76ms
+2026-03-01 12:00:36 INFO GET /api/orders 200 200ms
+2026-03-01 12:00:37 ERROR Exception in checkout: NullReferenceException at cart.py:109
+  Traceback (most recent call last):
+2026-03-01 12:00:38 INFO GET /api/orders 200 77ms
+2026-03-01 12:00:39 ERROR Exception in checkout: NullReferenceException at cart.py:96
+  Traceback (most recent call last):
+2026-03-01 12:00:40 INFO GET /api/orders 200 188ms
+2026-03-01 12:00:41 ERROR GET /api/orders 500 timeout after 3164ms
+2026-03-01 12:00:42 INFO GET /api/orders 200 31ms
+2026-03-01 12:00:43 INFO GET /api/orders 200 52ms
+2026-03-01 12:00:44 INFO GET /api/orders 200 180ms
+2026-03-01 12:00:45 ERROR Exception in checkout: NullReferenceException at cart.py:138
+  Traceback (most recent call last):
+2026-03-01 12:00:46 INFO GET /api/orders 200 211ms
+2026-03-01 12:00:47 INFO GET /api/orders 200 229ms
+2026-03-01 12:00:48 INFO GET /api/orders 200 189ms
+2026-03-01 12:00:49 INFO GET /api/orders 200 33ms
+2026-03-01 12:00:50 INFO GET /api/orders 200 293ms
+2026-03-01 12:00:51 INFO GET /api/orders 200 204ms
+2026-03-01 12:00:52 INFO GET /api/orders 200 215ms
+2026-03-01 12:00:53 ERROR GET /api/orders 500 timeout after 4103ms
+2026-03-01 12:00:54 ERROR Exception in checkout: NullReferenceException at cart.py:14
+  Traceback (most recent call last):
+2026-03-01 12:00:55 INFO GET /api/orders 200 32ms
+2026-03-01 12:00:56 ERROR Exception in checkout: NullReferenceException at cart.py:75
+  Traceback (most recent call last):
+2026-03-01 12:00:57 INFO GET /api/orders 200 45ms
+2026-03-01 12:00:58 INFO GET /api/orders 200 141ms
+2026-03-01 12:00:59 INFO GET /api/orders 200 290ms
+2026-03-01 12:01:00 WARN POST /login 401 user=u2
+2026-03-01 12:01:01 INFO GET /api/orders 200 193ms
+2026-03-01 12:01:02 INFO GET /api/orders 200 150ms
+2026-03-01 12:01:03 INFO GET /api/orders 200 93ms
+2026-03-01 12:01:04 ERROR Exception in checkout: NullReferenceException at cart.py:199
+  Traceback (most recent call last):
+2026-03-01 12:01:05 ERROR Exception in checkout: NullReferenceException at cart.py:127
+  Traceback (most recent call last):
+2026-03-01 12:01:06 INFO GET /api/orders 200 140ms
+2026-03-01 12:01:07 ERROR Exception in checkout: NullReferenceException at cart.py:193
+  Traceback (most recent call last):
+2026-03-01 12:01:08 INFO GET /api/orders 200 160ms
+2026-03-01 12:01:09 ERROR Exception in checkout: NullReferenceException at cart.py:97
+  Traceback (most recent call last):
+2026-03-01 12:01:10 ERROR Exception in checkout: NullReferenceException at cart.py:196
+  Traceback (most recent call last):
+2026-03-01 12:01:11 INFO GET /api/orders 200 148ms
+2026-03-01 12:01:12 INFO GET /api/orders 200 121ms
+2026-03-01 12:01:13 INFO GET /api/orders 200 32ms
+2026-03-01 12:01:14 INFO GET /api/orders 200 49ms
+2026-03-01 12:01:15 INFO GET /api/orders 200 244ms
+2026-03-01 12:01:16 INFO GET /api/orders 200 229ms
+2026-03-01 12:01:17 INFO GET /api/orders 200 171ms
+2026-03-01 12:01:18 INFO GET /api/orders 200 21ms
+2026-03-01 12:01:19 WARN POST /login 401 user=u9
+2026-03-01 12:01:20 INFO GET /api/orders 200 150ms
+2026-03-01 12:01:21 INFO GET /api/orders 200 109ms
+2026-03-01 12:01:22 WARN POST /login 401 user=u1
+2026-03-01 12:01:23 INFO GET /api/orders 200 206ms
+2026-03-01 12:01:24 INFO GET /api/orders 200 50ms
+2026-03-01 12:01:25 INFO GET /api/orders 200 141ms
+2026-03-01 12:01:26 INFO GET /api/orders 200 74ms
+2026-03-01 12:01:27 ERROR Exception in checkout: NullReferenceException at cart.py:63
+  Traceback (most recent call last):
+2026-03-01 12:01:28 ERROR Exception in checkout: NullReferenceException at cart.py:173
+  Traceback (most recent call last):
+2026-03-01 12:01:29 WARN POST /login 401 user=u2
+2026-03-01 12:01:30 INFO GET /api/orders 200 70ms
+2026-03-01 12:01:31 INFO GET /api/orders 200 77ms
+2026-03-01 12:01:32 INFO GET /api/orders 200 181ms
+2026-03-01 12:01:33 ERROR Exception in checkout: NullReferenceException at cart.py:51
+  Traceback (most recent call last):
+2026-03-01 12:01:34 ERROR GET /api/orders 500 timeout after 5858ms
+2026-03-01 12:01:35 WARN POST /login 401 user=u6
+2026-03-01 12:01:36 INFO GET /api/orders 200 249ms
+2026-03-01 12:01:37 INFO GET /api/orders 200 71ms
+2026-03-01 12:01:38 WARN POST /login 401 user=u2
+2026-03-01 12:01:39 INFO GET /api/orders 200 272ms
+2026-03-01 12:01:40 INFO GET /api/orders 200 143ms
+2026-03-01 12:01:41 WARN POST /login 401 user=u6
+2026-03-01 12:01:42 ERROR GET /api/orders 500 timeout after 2687ms
+2026-03-01 12:01:43 WARN POST /login 401 user=u7
+2026-03-01 12:01:44 INFO GET /api/orders 200 261ms
+2026-03-01 12:01:45 INFO GET /api/orders 200 90ms
+2026-03-01 12:01:46 WARN POST /login 401 user=u7
+2026-03-01 12:01:47 INFO GET /api/orders 200 257ms
+2026-03-01 12:01:48 INFO GET /api/orders 200 68ms
+2026-03-01 12:01:49 ERROR GET /api/orders 500 timeout after 6561ms
+2026-03-01 12:01:50 INFO GET /api/orders 200 210ms
+2026-03-01 12:01:51 INFO GET /api/orders 200 141ms
+2026-03-01 12:01:52 INFO GET /api/orders 200 220ms
+2026-03-01 12:01:53 INFO GET /api/orders 200 273ms
+2026-03-01 12:01:54 INFO GET /api/orders 200 93ms
+2026-03-01 12:01:55 INFO GET /api/orders 200 196ms
+2026-03-01 12:01:56 ERROR GET /api/orders 500 timeout after 4712ms
+2026-03-01 12:01:57 INFO GET /api/orders 200 176ms
+2026-03-01 12:01:58 INFO GET /api/orders 200 112ms
+2026-03-01 12:01:59 WARN POST /login 401 user=u8
+2026-03-01 12:02:00 INFO GET /api/orders 200 56ms
+2026-03-01 12:02:01 INFO GET /api/orders 200 286ms
+2026-03-01 12:02:02 INFO GET /api/orders 200 33ms
+2026-03-01 12:02:03 ERROR Exception in checkout: NullReferenceException at cart.py:171
+  Traceback (most recent call last):
+2026-03-01 12:02:04 INFO GET /api/orders 200 196ms
+2026-03-01 12:02:05 INFO GET /api/orders 200 127ms
+2026-03-01 12:02:06 INFO GET /api/orders 200 118ms
+2026-03-01 12:02:07 INFO GET /api/orders 200 154ms
+2026-03-01 12:02:08 INFO GET /api/orders 200 22ms
+2026-03-01 12:02:09 ERROR Exception in checkout: NullReferenceException at cart.py:92
+  Traceback (most recent call last):
+2026-03-01 12:02:10 WARN POST /login 401 user=u9
+2026-03-01 12:02:11 INFO GET /api/orders 200 173ms
+2026-03-01 12:02:12 INFO GET /api/orders 200 75ms
+2026-03-01 12:02:13 INFO GET /api/orders 200 219ms
+2026-03-01 12:02:14 ERROR Exception in checkout: NullReferenceException at cart.py:117
+  Traceback (most recent call last):
+2026-03-01 12:02:15 WARN POST /login 401 user=u6
+2026-03-01 12:02:16 ERROR Exception in checkout: NullReferenceException at cart.py:14
+  Traceback (most recent call last):
+2026-03-01 12:02:17 ERROR Exception in checkout: NullReferenceException at cart.py:198
+  Traceback (most recent call last):
+2026-03-01 12:02:18 WARN POST /login 401 user=u8
+2026-03-01 12:02:19 INFO GET /api/orders 200 38ms
+2026-03-01 12:02:20 INFO GET /api/orders 200 257ms
+2026-03-01 12:02:21 INFO GET /api/orders 200 156ms
+2026-03-01 12:02:22 ERROR GET /api/orders 500 timeout after 6358ms
+2026-03-01 12:02:23 INFO GET /api/orders 200 167ms
+2026-03-01 12:02:24 INFO GET /api/orders 200 198ms
+2026-03-01 12:02:25 INFO GET /api/orders 200 57ms
+2026-03-01 12:02:26 ERROR Exception in checkout: NullReferenceException at cart.py:11
+  Traceback (most recent call last):
+2026-03-01 12:02:27 INFO GET /api/orders 200 77ms
+2026-03-01 12:02:28 ERROR GET /api/orders 500 timeout after 5928ms
+2026-03-01 12:02:29 ERROR GET /api/orders 500 timeout after 8466ms
+2026-03-01 12:02:30 INFO GET /api/orders 200 81ms
+2026-03-01 12:02:31 INFO GET /api/orders 200 219ms
+2026-03-01 12:02:32 INFO GET /api/orders 200 292ms
+2026-03-01 12:02:33 ERROR GET /api/orders 500 timeout after 6228ms
+2026-03-01 12:02:34 ERROR Exception in checkout: NullReferenceException at cart.py:111
+  Traceback (most recent call last):
+2026-03-01 12:02:35 ERROR GET /api/orders 500 timeout after 2986ms
+2026-03-01 12:02:36 WARN POST /login 401 user=u1
+2026-03-01 12:02:37 WARN POST /login 401 user=u9
+2026-03-01 12:02:38 INFO GET /api/orders 200 104ms
+2026-03-01 12:02:39 ERROR Exception in checkout: NullReferenceException at cart.py:172
+  Traceback (most recent call last):
+2026-03-01 12:02:40 ERROR Exception in checkout: NullReferenceException at cart.py:12
+  Traceback (most recent call last):
+2026-03-01 12:02:41 INFO GET /api/orders 200 139ms
+2026-03-01 12:02:42 INFO GET /api/orders 200 186ms
+2026-03-01 12:02:43 ERROR Exception in checkout: NullReferenceException at cart.py:110
+  Traceback (most recent call last):
+2026-03-01 12:02:44 ERROR Exception in checkout: NullReferenceException at cart.py:25
+  Traceback (most recent call last):
+2026-03-01 12:02:45 INFO GET /api/orders 200 85ms
+2026-03-01 12:02:46 INFO GET /api/orders 200 274ms
+2026-03-01 12:02:47 INFO GET /api/orders 200 175ms
+2026-03-01 12:02:48 INFO GET /api/orders 200 123ms
+2026-03-01 12:02:49 INFO GET /api/orders 200 231ms
+2026-03-01 12:02:50 INFO GET /api/orders 200 250ms
+2026-03-01 12:02:51 WARN POST /login 401 user=u4
+2026-03-01 12:02:52 INFO GET /api/orders 200 193ms
+2026-03-01 12:02:53 WARN POST /login 401 user=u4
+2026-03-01 12:02:54 INFO GET /api/orders 200 217ms
+2026-03-01 12:02:55 INFO GET /api/orders 200 69ms
+2026-03-01 12:02:56 INFO GET /api/orders 200 297ms
+2026-03-01 12:02:57 INFO GET /api/orders 200 44ms
+2026-03-01 12:02:58 ERROR GET /api/orders 500 timeout after 2717ms
+2026-03-01 12:02:59 WARN POST /login 401 user=u1
+2026-03-01 12:03:00 INFO GET /api/orders 200 84ms
+2026-03-01 12:03:01 ERROR GET /api/orders 500 timeout after 7072ms
+2026-03-01 12:03:02 INFO GET /api/orders 200 235ms
+2026-03-01 12:03:03 INFO GET /api/orders 200 157ms
+2026-03-01 12:03:04 INFO GET /api/orders 200 193ms
+2026-03-01 12:03:05 WARN POST /login 401 user=u3
+2026-03-01 12:03:06 INFO GET /api/orders 200 280ms
+2026-03-01 12:03:07 INFO GET /api/orders 200 174ms
+2026-03-01 12:03:08 INFO GET /api/orders 200 136ms
+2026-03-01 12:03:09 INFO GET /api/orders 200 207ms
+2026-03-01 12:03:10 WARN POST /login 401 user=u9
+2026-03-01 12:03:11 ERROR GET /api/orders 500 timeout after 3037ms
+2026-03-01 12:03:12 INFO GET /api/orders 200 133ms
+2026-03-01 12:03:13 WARN POST /login 401 user=u3
+2026-03-01 12:03:14 ERROR GET /api/orders 500 timeout after 3318ms
+2026-03-01 12:03:15 INFO GET /api/orders 200 23ms
+2026-03-01 12:03:16 INFO GET /api/orders 200 207ms
+2026-03-01 12:03:17 INFO GET /api/orders 200 125ms
+2026-03-01 12:03:18 INFO GET /api/orders 200 153ms
+2026-03-01 12:03:19 WARN POST /login 401 user=u6
+2026-03-01 12:03:20 INFO GET /api/orders 200 154ms
+2026-03-01 12:03:21 INFO GET /api/orders 200 185ms
+2026-03-01 12:03:22 INFO GET /api/orders 200 278ms
+2026-03-01 12:03:23 ERROR GET /api/orders 500 timeout after 8047ms
+2026-03-01 12:03:24 INFO GET /api/orders 200 21ms
+2026-03-01 12:03:25 WARN POST /login 401 user=u2
+2026-03-01 12:03:26 ERROR Exception in checkout: NullReferenceException at cart.py:127
+  Traceback (most recent call last):
+2026-03-01 12:03:27 WARN POST /login 401 user=u8
+2026-03-01 12:03:28 ERROR GET /api/orders 500 timeout after 3000ms
+2026-03-01 12:03:29 ERROR Exception in checkout: NullReferenceException at cart.py:126
+  Traceback (most recent call last):
+2026-03-01 12:03:30 INFO GET /api/orders 200 80ms
+2026-03-01 12:03:31 INFO GET /api/orders 200 114ms
+2026-03-01 12:03:32 WARN POST /login 401 user=u4
+2026-03-01 12:03:33 WARN POST /login 401 user=u7
+2026-03-01 12:03:34 INFO GET /api/orders 200 28ms
+2026-03-01 12:03:35 INFO GET /api/orders 200 172ms
+2026-03-01 12:03:36 INFO GET /api/orders 200 79ms
+2026-03-01 12:03:37 INFO GET /api/orders 200 197ms
+2026-03-01 12:03:38 INFO GET /api/orders 200 215ms
+2026-03-01 12:03:39 INFO GET /api/orders 200 121ms
+2026-03-01 12:03:40 INFO GET /api/orders 200 79ms
+2026-03-01 12:03:41 WARN POST /login 401 user=u4
+2026-03-01 12:03:42 INFO GET /api/orders 200 230ms
+2026-03-01 12:03:43 INFO GET /api/orders 200 291ms
+2026-03-01 12:03:44 INFO GET /api/orders 200 89ms
+2026-03-01 12:03:45 ERROR GET /api/orders 500 timeout after 3229ms
+2026-03-01 12:03:46 WARN POST /login 401 user=u3
+2026-03-01 12:03:47 INFO GET /api/orders 200 127ms
+2026-03-01 12:03:48 INFO GET /api/orders 200 106ms
+2026-03-01 12:03:49 INFO GET /api/orders 200 114ms
+2026-03-01 12:03:50 INFO GET /api/orders 200 59ms
+2026-03-01 12:03:51 INFO GET /api/orders 200 183ms
+2026-03-01 12:03:52 WARN POST /login 401 user=u2
+2026-03-01 12:03:53 ERROR Exception in checkout: NullReferenceException at cart.py:26
+  Traceback (most recent call last):
+2026-03-01 12:03:54 INFO GET /api/orders 200 291ms
+2026-03-01 12:03:55 INFO GET /api/orders 200 68ms
+2026-03-01 12:03:56 INFO GET /api/orders 200 61ms
+2026-03-01 12:03:57 INFO GET /api/orders 200 209ms
+2026-03-01 12:03:58 INFO GET /api/orders 200 235ms
+2026-03-01 12:03:59 INFO GET /api/orders 200 194ms
+2026-03-01 12:04:00 INFO GET /api/orders 200 222ms
+2026-03-01 12:04:01 INFO GET /api/orders 200 296ms
+2026-03-01 12:04:02 ERROR Exception in checkout: NullReferenceException at cart.py:187
+  Traceback (most recent call last):
+2026-03-01 12:04:03 ERROR Exception in checkout: NullReferenceException at cart.py:184
+  Traceback (most recent call last):
+2026-03-01 12:04:04 INFO GET /api/orders 200 42ms
+2026-03-01 12:04:05 ERROR Exception in checkout: NullReferenceException at cart.py:62
+  Traceback (most recent call last):
+2026-03-01 12:04:06 INFO GET /api/orders 200 223ms
+2026-03-01 12:04:07 INFO GET /api/orders 200 138ms
+2026-03-01 12:04:08 INFO GET /api/orders 200 260ms
+2026-03-01 12:04:09 INFO GET /api/orders 200 56ms
+2026-03-01 12:04:10 INFO GET /api/orders 200 238ms
+2026-03-01 12:04:11 INFO GET /api/orders 200 157ms
+2026-03-01 12:04:12 WARN POST /login 401 user=u7
+2026-03-01 12:04:13 ERROR GET /api/orders 500 timeout after 4161ms
+2026-03-01 12:04:14 WARN POST /login 401 user=u8
+2026-03-01 12:04:15 WARN POST /login 401 user=u1
+2026-03-01 12:04:16 INFO GET /api/orders 200 203ms
+2026-03-01 12:04:17 INFO GET /api/orders 200 260ms
+2026-03-01 12:04:18 INFO GET /api/orders 200 177ms
+2026-03-01 12:04:19 INFO GET /api/orders 200 270ms
+2026-03-01 12:04:20 INFO GET /api/orders 200 56ms
+2026-03-01 12:04:21 ERROR GET /api/orders 500 timeout after 5599ms
+2026-03-01 12:04:22 INFO GET /api/orders 200 198ms
+2026-03-01 12:04:23 INFO GET /api/orders 200 161ms
+2026-03-01 12:04:24 INFO GET /api/orders 200 218ms
+2026-03-01 12:04:25 WARN POST /login 401 user=u8
+2026-03-01 12:04:26 INFO GET /api/orders 200 64ms
+2026-03-01 12:04:27 ERROR Exception in checkout: NullReferenceException at cart.py:82
+  Traceback (most recent call last):
+2026-03-01 12:04:28 INFO GET /api/orders 200 183ms
+2026-03-01 12:04:29 INFO GET /api/orders 200 231ms
+2026-03-01 12:04:30 INFO GET /api/orders 200 22ms
+2026-03-01 12:04:31 INFO GET /api/orders 200 125ms
+2026-03-01 12:04:32 ERROR Exception in checkout: NullReferenceException at cart.py:67
+  Traceback (most recent call last):
+2026-03-01 12:04:33 INFO GET /api/orders 200 217ms
+2026-03-01 12:04:34 INFO GET /api/orders 200 244ms
+2026-03-01 12:04:35 INFO GET /api/orders 200 285ms
+2026-03-01 12:04:36 ERROR Exception in checkout: NullReferenceException at cart.py:174
+  Traceback (most recent call last):
+2026-03-01 12:04:37 INFO GET /api/orders 200 140ms
+2026-03-01 12:04:38 INFO GET /api/orders 200 38ms
+2026-03-01 12:04:39 WARN POST /login 401 user=u3
+2026-03-01 12:04:40 INFO GET /api/orders 200 54ms
+2026-03-01 12:04:41 ERROR Exception in checkout: NullReferenceException at cart.py:88
+  Traceback (most recent call last):
+2026-03-01 12:04:42 INFO GET /api/orders 200 270ms
+2026-03-01 12:04:43 INFO GET /api/orders 200 278ms
+2026-03-01 12:04:44 INFO GET /api/orders 200 161ms
+2026-03-01 12:04:45 INFO GET /api/orders 200 139ms
+2026-03-01 12:04:46 INFO GET /api/orders 200 158ms
+2026-03-01 12:04:47 INFO GET /api/orders 200 300ms
+2026-03-01 12:04:48 INFO GET /api/orders 200 127ms
+2026-03-01 12:04:49 INFO GET /api/orders 200 58ms
+2026-03-01 12:04:50 ERROR Exception in checkout: NullReferenceException at cart.py:139
+  Traceback (most recent call last):
+2026-03-01 12:04:51 ERROR GET /api/orders 500 timeout after 7838ms
+2026-03-01 12:04:52 INFO GET /api/orders 200 56ms
+2026-03-01 12:04:53 INFO GET /api/orders 200 71ms
+2026-03-01 12:04:54 INFO GET /api/orders 200 134ms
+2026-03-01 12:04:55 INFO GET /api/orders 200 264ms
+2026-03-01 12:04:56 INFO GET /api/orders 200 97ms
+2026-03-01 12:04:57 ERROR Exception in checkout: NullReferenceException at cart.py:42
+  Traceback (most recent call last):
+2026-03-01 12:04:58 INFO GET /api/orders 200 103ms
+2026-03-01 12:04:59 WARN POST /login 401 user=u4
