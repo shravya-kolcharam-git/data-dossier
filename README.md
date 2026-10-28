@@ -15,7 +15,7 @@ It **only analyzes** your data. It does not store, clean, change or upload anyth
 Drop a file into the box, or paste text:
 
 - **Tables:** CSV, TSV, semicolon- or pipe-separated files (with or without a header row)
-- **Spreadsheets:** Excel (`.xlsx`, `.xls`, `.ods`), first sheet by default
+- **Spreadsheets:** Excel (`.xlsx`, `.xls`, `.ods`). The largest sheet is analyzed; the preview shows the first sheet
 - **Records:** JSON arrays, nested JSON (the largest record list is used), JSON Lines (`.jsonl`), XML
 - **Text and code:** application logs, SQL scripts, source code, YAML/config, Markdown, plain text
 - **Other:** binary files are identified and described, with conversion advice
