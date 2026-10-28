@@ -1255,9 +1255,19 @@ async function saveReport(){
   const btn=$('#save'); const note=t=>{btn.textContent=t;setTimeout(()=>btn.textContent='Save printable report',3500)};
   try{
     const dl=await window.claude?.use?.('downloads');
-    if(!dl){note('Saving unavailable here');return}
     const base=lastR.meta.name.replace(/\.[^.]+$/,'').replace(/[^\w.-]+/g,'-').slice(0,60)||'data';
-    await dl.save({filename:'data-dossier-'+base+'.html',data:standalone()}); note('Saved. Open it and press Print');
+    const filename='data-dossier-'+base+'.html';
+    const data=standalone();
+    if(dl){
+      await dl.save({filename,data});
+    }else{
+      const url=URL.createObjectURL(new Blob([data],{type:'text/html;charset=utf-8'}));
+      const link=document.createElement('a');
+      link.href=url; link.download=filename;
+      document.body.appendChild(link); link.click(); link.remove();
+      setTimeout(()=>URL.revokeObjectURL(url),60000);
+    }
+    note('Saved. Open it and press Print');
   }catch(e){ note(e&&e.code==='declined'?'Save cancelled':'Could not save') }
 }
 function setFile(file){
